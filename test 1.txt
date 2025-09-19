@@ -1,2 +1,8 @@
 this is first test file.
+<<<<<<< HEAD
 so happy.
+=======
+It is Oakkar Oo .And This is update in create repository and 
+I hate Htet Aung
+it tl
+>>>>>>> ab9d073a53a06b0e4e76093abb3999e7dec16821
